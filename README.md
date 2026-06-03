@@ -1,4 +1,5 @@
 
+
 <!-- MasterHead -->
 <img width="100%" height="432" alt="darius-anton-final-animation-night_gif 768 × 432 пикс" src="https://github.com/user-attachments/assets/760ce9b0-da81-4352-b327-ec5c72ca4eb9" />
 </a>
@@ -61,7 +62,7 @@
 </div>
 
 </div>
-
+<img width="100%" height="245" alt="☆☆☆" src="https://github.com/user-attachments/assets/12ba0d79-e77a-4179-b1a8-789c13e4daf8" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
 <p align="center">
