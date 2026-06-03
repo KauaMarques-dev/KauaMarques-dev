@@ -44,6 +44,7 @@
 
 <!-- Languages & Tools -->
 <div align="center">
+<br>
 <h3>📚 Linguagens e Ferramentas que utilizo.</h3>
 
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
